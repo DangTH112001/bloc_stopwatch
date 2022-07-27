@@ -6,7 +6,7 @@ I use Bloc Pattern to implement a Stopwatch.
 flutter_bloc: 
   - https://pub.dev/packages/flutter_bloc
   - https://bloclibrary.dev/#/flutterbloccoreconcepts
-timer tutorial: 
+\ntimer tutorial: 
   - https://bloclibrary.dev/#/fluttertimertutorial
   
 # Take note: It can only run precisely up to seconds.
